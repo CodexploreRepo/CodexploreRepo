@@ -1,4 +1,4 @@
-### Hi there, I'm Quan Nguyen - aka [CodeXplore][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> = Software Engineer + Youtuber 🌱
+### Hi, I'm Quan Nguyen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXplore][website] = Software Engineer + Youtuber 🌱
 
 - 🔭 I'm passionate about Data Science, Machine Learning, AI & Blockchain
 - 🥅 2021 Goals: Working on more DS Projects
@@ -21,8 +21,10 @@
 
 <br />
 <br />
-
 ---
+<summary>:zap: GitHub Stats</summary>
+
+## <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=CodexploreRepo&show_icons=true&hide_border=true" />
 
 ### 📺 Latest YouTube Videos
 
@@ -38,9 +40,5 @@
   </details>
 
 ---
-
-<summary>:zap: GitHub Stats</summary>
-
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 [website]: https://www.youtube.com/channel/UCN03cDDMfrD6Iyxk20_dvmQ
