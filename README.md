@@ -38,13 +38,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
 - [Top 3 Ngôn Ngữ Lập Trình Bạn NÊN Học trong 2021 | Devlog #1](https://www.youtube.com/watch?v=ebbLwyybkSA)
 - [Lập Trình Trợ Lý Ảo FRIDAY trong Iron Man với Python](https://www.youtube.com/watch?v=Nx_kwUQKqV8)
 - [Giải LeetCode 104 - Maximum Depth of Binary Tree | Thuật Toán DFS](https://www.youtube.com/watch?v=NUx4G3WdJV0)
 - [Lập Trình Game AMONG US Đơn Giản với Python](https://www.youtube.com/watch?v=yXJ8dvQT3X4)
 - [Consecutive Characters | Giải LeetCode #1446](https://www.youtube.com/watch?v=zTDhpCTAc6s)
-
 <!-- YOUTUBE:END -->
 
 ---
