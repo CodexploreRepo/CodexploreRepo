@@ -3,7 +3,20 @@
 - 🔭 I'm passionate about Data Science, Machine Learning, AI & Blockchain
 - 🥅 2021 Goals: Working on more DS Projects
 - ⚡ Fun fact: I live in Singapore but travelling to Vietnam every two week before Covid 😅
-- 📫 How to reach me: [![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&color=%23003140&logoColor=white)](https://www.linkedin.com/in/quanngha/)
+
+### :zap: GitHub Stats
+
+<table>
+<tr>
+  <td width="48%">
+    <img src="https://github-readme-stats.vercel.app/api?username=CodexploreRepo&show_icons=true&hide=contribs,issues&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodexploreRepo&layout=compact&show_icons=true&hide_border=true" />
+  </td>
+  <td width="52%"><img alt="gif" align="right" src=".github/assets/coding.gif"/></td>
+</tr>
+<table>
+
+---
 
 ### Languages and Tools:
 
@@ -24,20 +37,6 @@
 
 ---
 
-### :zap: GitHub Stats
-
-<table>
-<tr>
-  <td width="48%">
-    <img src="https://github-readme-stats.vercel.app/api?username=CodexploreRepo&show_icons=true&hide=contribs,issues&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodexploreRepo&layout=compact&show_icons=true&hide_border=true" />
-  </td>
-  <td width="52%"><img alt="gif" align="right" src=".github/assets/coding.gif"/></td>
-</tr>
-<table>
-
----
-
 ### 📺 Latest YouTube Videos
 
 <details>
@@ -50,5 +49,11 @@
 - [Consecutive Characters | Giải LeetCode #1446](https://www.youtube.com/watch?v=zTDhpCTAc6s)
     <!-- YOUTUBE:END -->
   </details>
+
+---
+
+### 📫 Contact:
+
+[![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&color=%23003140&logoColor=white)](https://www.linkedin.com/in/quanngha/)
 
 [website]: https://www.youtube.com/channel/UCN03cDDMfrD6Iyxk20_dvmQ
