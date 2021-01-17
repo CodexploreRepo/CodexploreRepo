@@ -1,9 +1,9 @@
-### Hi there, I'm Quan Nguyen - aka [CodeXplore][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm Quan Nguyen - aka [CodeXplore][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> = Software Engineer + Youtuber 🌱
 
-- 🔭 I'm passionate about Data Science, ML, AI & Blockchain
+- 🔭 I'm passionate about Data Science, Machine Learning, AI & Blockchain
 - 🥅 2021 Goals: Working on more DS Projects
 - 📫 How to reach me: @quan.ngha
-- ⚡ Fun fact: I love swimming
+- ⚡ Fun fact: I live in Singapore but travelling to Viet Nam every two week before Covid 😅
 
 ### Languages and Tools:
 
@@ -24,8 +24,9 @@
 
 ---
 
-### 📺 Latest YouTube Videos from CodeXplore Channel
+### 📺 Latest YouTube Videos
 
+<details>
 <!-- YOUTUBE:START -->
 
 - [Top 3 Ngôn Ngữ Lập Trình Bạn NÊN Học trong 2021 | Devlog #1](https://www.youtube.com/watch?v=ebbLwyybkSA)
@@ -33,15 +34,13 @@
 - [Giải LeetCode 104 - Maximum Depth of Binary Tree | Thuật Toán DFS](https://www.youtube.com/watch?v=NUx4G3WdJV0)
 - [Lập Trình Game AMONG US Đơn Giản với Python](https://www.youtube.com/watch?v=yXJ8dvQT3X4)
 - [Consecutive Characters | Giải LeetCode #1446](https://www.youtube.com/watch?v=zTDhpCTAc6s)
-<!-- YOUTUBE:END -->
+    <!-- YOUTUBE:END -->
+  </details>
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 [website]: https://www.youtube.com/channel/UCN03cDDMfrD6Iyxk20_dvmQ
