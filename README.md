@@ -3,7 +3,7 @@
 - 🔭 I'm passionate about Data Science, Machine Learning, AI & Blockchain
 - 🥅 2021 Goals: Working on more DS Projects
 - 📫 How to reach me: @quan.ngha
-- ⚡ Fun fact: I live in Singapore but travelling to Viet Nam every two week before Covid 😅
+- ⚡ Fun fact: I live in Singapore but travelling to Vietnam every two week before Covid 😅
 
 ### Languages and Tools:
 
@@ -26,8 +26,8 @@
 
 ### :zap: GitHub Stats
 
-[![CodeXplore's github stats](https://github-readme-stats.vercel.app/api?username=CodexploreRepo&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodexploreRepo&layout=compact&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![CodeXplore's github stats](https://github-readme-stats.vercel.app/api?username=CodexploreRepo&show_icons=true&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodexploreRepo&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
