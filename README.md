@@ -24,10 +24,10 @@
 
 ---
 
-<summary>:zap: GitHub Stats</summary>
+### :zap: GitHub Stats
 
-[![CodeXplore's github stats](https://github-readme-stats.vercel.app/api?username=codexplorerepo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codexplorerepo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![CodeXplore's github stats](https://github-readme-stats.vercel.app/api?username=CodexploreRepo&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodexploreRepo&layout=compact&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -43,7 +43,5 @@
 - [Consecutive Characters | Giải LeetCode #1446](https://www.youtube.com/watch?v=zTDhpCTAc6s)
     <!-- YOUTUBE:END -->
   </details>
-
----
 
 [website]: https://www.youtube.com/channel/UCN03cDDMfrD6Iyxk20_dvmQ
