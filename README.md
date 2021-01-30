@@ -1,6 +1,6 @@
-### Hi, I'm Quan Nguyen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXplore][website] = Software Engineer + Youtuber 🌱
+### Hi, I'm Quan Nguyen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXplore][website] = Software Engineer + Youtuber 🌱 Currently I am applying for MITB Program in Singapore Management University
 
-- 🔭 I'm passionate about Data Science, Machine Learning, AI & Blockchain
+- 🔭 I'm passionate about Data Science (DS), Machine Learning, AI & Blockchain
 - 🥅 2021 Goals: Working on more DS Projects
 - ⚡ Fun fact: I work in Singapore but travel to Vietnam every two week before Covid 😅
 
