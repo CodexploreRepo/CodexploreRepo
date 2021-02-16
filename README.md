@@ -39,7 +39,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [LỜI CẢM ƠN - XUÂN TÂN SỬU | Hiện Có 364 Views, 45 Likes](https://www.youtube.com/watch?v=xvBXWHhceew)
+- [LỜI CẢM ƠN - XUÂN TÂN SỬU | Hiện Có 365 Views, 45 Likes](https://www.youtube.com/watch?v=xvBXWHhceew)
 - [Làm Quen vs Pandas và DataFrame | Tự Học Data Science #1](https://www.youtube.com/watch?v=HPGYTWYM13s)
 - [Top 3 Ngôn Ngữ Lập Trình Bạn NÊN Học trong 2021 | Devlog #1](https://www.youtube.com/watch?v=ebbLwyybkSA)
 - [Lập Trình Trợ Lý Ảo FRIDAY trong Iron Man với Python](https://www.youtube.com/watch?v=Nx_kwUQKqV8)
