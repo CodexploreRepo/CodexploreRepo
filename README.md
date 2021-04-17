@@ -39,7 +39,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Giải thích Trí Tuệ Nhân Tạo #AI qua Giả Lập Evolution | Devlog #2](https://www.youtube.com/watch?v=xekilsPLlig)
+- [Giải thích Trí Tuệ Nhân Tạo #AI qua Giả Lập #Evolution | Devlog #2](https://www.youtube.com/watch?v=xekilsPLlig)
 - [Hướng Dẫn Thành Thạo NumPy | Tự Học Data Science #2](https://www.youtube.com/watch?v=1eSmR2EJjYM)
 - [Phương Sai và Độ Lệch Chuẩn Là Gì ? | #1 Statistics cho Data Science](https://www.youtube.com/watch?v=IiTZkYAMSJI)
 - [LỜI CẢM ƠN - XUÂN TÂN SỬU x CodeXplore](https://www.youtube.com/watch?v=xvBXWHhceew)
