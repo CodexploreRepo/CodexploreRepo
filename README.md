@@ -39,11 +39,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Giải thích Trí Tuệ Nhân Tạo #AI qua Giả Lập Evolution | Devlog #2](https://www.youtube.com/watch?v=xekilsPLlig)
 - [Hướng Dẫn Thành Thạo NumPy | Tự Học Data Science #2](https://www.youtube.com/watch?v=1eSmR2EJjYM)
 - [Phương Sai và Độ Lệch Chuẩn Là Gì ? | #1 Statistics cho Data Science](https://www.youtube.com/watch?v=IiTZkYAMSJI)
 - [LỜI CẢM ƠN - XUÂN TÂN SỬU x CodeXplore](https://www.youtube.com/watch?v=xvBXWHhceew)
 - [Làm Quen vs Pandas và DataFrame | Tự Học Data Science #1](https://www.youtube.com/watch?v=HPGYTWYM13s)
-- [Top 3 Ngôn Ngữ Lập Trình Bạn NÊN Học trong 2021 | Devlog #1](https://www.youtube.com/watch?v=ebbLwyybkSA)
 <!-- YOUTUBE:END -->
 
 ---
