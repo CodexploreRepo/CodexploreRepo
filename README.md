@@ -39,9 +39,9 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Lập Trình Đồng Hồ Kỹ Thuật Số trong 5 PHÚT với Python và Tkinter](https://www.youtube.com/watch?v=xrzYWfjHrRg)
 - [Vì sao CodeXplore xuất hiện trên Fanpage Đại Học VinUniversity ?](https://www.youtube.com/watch?v=_Owj4MZ1erY)
 - [Giới Thiệu HỌC BỔNG DU HỌC Thạc Sĩ Tiến Sĩ của Tập Đoàn Vingroup](https://www.youtube.com/watch?v=nLGSUKJlYdM)
-- [Lập Trình Đồng Hồ Kỹ Thuật Số trong 5 PHÚT với Python và Tkinter](https://www.youtube.com/watch?v=xrzYWfjHrRg)
 - [Giải thích Trí Tuệ Nhân Tạo #AI qua Giả Lập #Evolution | Devlog #2](https://www.youtube.com/watch?v=xekilsPLlig)
 - [Hướng Dẫn Thành Thạo NumPy | Tự Học Data Science #2](https://www.youtube.com/watch?v=1eSmR2EJjYM)
 <!-- YOUTUBE:END -->
