@@ -40,11 +40,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Hướng Dẫn Trực Quan Hoá Dữ Liệu với Matplotlib và Python](https://www.youtube.com/watch?v=Ak7GamuoIr4)
 - [Làm Theo TIKTOK TRIỆU VIEW | Tạo TOUCH BAR PETS trên MACBOOK](https://www.youtube.com/watch?v=52UjZ9cgFd0)
 - [Hướng Dẫn Setup Môi Trường Lập Trình Trí Tuệ Nhân Tạo | Cài Đặt Anaconda và Python](https://www.youtube.com/watch?v=g5BdrxPhQU0)
 - [Lập Trình Đồng Hồ Kỹ Thuật Số trong 5 PHÚT vs Python và Tkinter](https://www.youtube.com/watch?v=xrzYWfjHrRg)
 - [Vì sao CodeXplore xuất hiện trên Fanpage Đại Học VinUniversity ?](https://www.youtube.com/watch?v=_Owj4MZ1erY)
-- [Giới Thiệu HỌC BỔNG DU HỌC Thạc Sĩ Tiến Sĩ của Tập Đoàn Vingroup](https://www.youtube.com/watch?v=nLGSUKJlYdM)
 <!-- YOUTUBE:END -->
 
 ---
