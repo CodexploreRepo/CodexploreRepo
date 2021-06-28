@@ -40,11 +40,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Hướng Dẫn Trực Quan Hoá Dữ Liệu với Seaborn và Python](https://www.youtube.com/watch?v=4_YB4ZWLgPg)
 - [Hướng Dẫn Lập Trình Python Project SÁCH NÓI #AudioBook](https://www.youtube.com/watch?v=HKa_adRo_Fo)
 - [Sự Kiện Apple WWDC 2021 Có Gì HOT ? iOS 15, Macbook Pro M1 ?](https://www.youtube.com/watch?v=MVX-WZyIyeU)
 - [Hướng Dẫn Trực Quan Hoá Dữ Liệu với Matplotlib và Python](https://www.youtube.com/watch?v=Ak7GamuoIr4)
 - [Làm Theo TIKTOK TRIỆU VIEW | Tạo TOUCH BAR PETS trên MACBOOK](https://www.youtube.com/watch?v=52UjZ9cgFd0)
-- [Hướng Dẫn Setup Môi Trường Lập Trình Trí Tuệ Nhân Tạo | Cài Đặt Anaconda và Python](https://www.youtube.com/watch?v=g5BdrxPhQU0)
 <!-- YOUTUBE:END -->
 
 ---
