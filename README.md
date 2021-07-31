@@ -40,11 +40,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Hướng Dẫn Làm Data Visualisation Project với Matlplotlib và Python](https://www.youtube.com/watch?v=N_7A3KPZIQw)
 - [Hướng Dẫn Các Bước Tiền Xử Lý Dữ Liệu bằng Scikit-Learn](https://www.youtube.com/watch?v=VsXKtjddXWY)
 - [Hướng Dẫn Cấu Trúc If Else trong Python bằng Game Đấm Lá Kéo](https://www.youtube.com/watch?v=dswNQdvnjgI)
 - [Hướng Dẫn Trực Quan Hoá Dữ Liệu với Seaborn và Python](https://www.youtube.com/watch?v=4_YB4ZWLgPg)
 - [Hướng Dẫn Lập Trình Python Project SÁCH NÓI #AudioBook](https://www.youtube.com/watch?v=HKa_adRo_Fo)
-- [Sự Kiện Apple WWDC 2021 Có Gì HOT ? iOS 15, Macbook Pro M1 ?](https://www.youtube.com/watch?v=MVX-WZyIyeU)
 <!-- YOUTUBE:END -->
 
 ---
