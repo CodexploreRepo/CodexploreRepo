@@ -40,7 +40,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Tìm Hiểu Công Nghệ Trí Tuệ Nhân Tạo, Machine Learning và Deep Learning](https://www.youtube.com/watch?v=lbqqb0fhr2A)
+- [Tìm Hiểu về Trí Tuệ Nhân Tạo, Machine Learning và Deep Learning](https://www.youtube.com/watch?v=lbqqb0fhr2A)
 - [Hướng Dẫn Làm Data Visualisation Project với Matlplotlib và Python](https://www.youtube.com/watch?v=N_7A3KPZIQw)
 - [Hướng Dẫn Các Bước Tiền Xử Lý Dữ Liệu bằng Scikit-Learn](https://www.youtube.com/watch?v=VsXKtjddXWY)
 - [Hướng Dẫn Cấu Trúc If Else trong Python bằng Game Đấm Lá Kéo](https://www.youtube.com/watch?v=dswNQdvnjgI)
