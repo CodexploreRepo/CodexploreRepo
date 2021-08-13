@@ -40,7 +40,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Lập Trình Game Flappy Bird với PyGame Cho Người Mới Bắt Đầu](https://www.youtube.com/watch?v=mFbdfXWmLU8)
+- [Lập Trình Game Flappy Bird với Python Cho Người Mới Bắt Đầu](https://www.youtube.com/watch?v=mFbdfXWmLU8)
 - [Tìm Hiểu về Trí Tuệ Nhân Tạo, Machine Learning & Deep Learning](https://www.youtube.com/watch?v=lbqqb0fhr2A)
 - [Hướng Dẫn Làm Data Visualisation Project với Matlplotlib và Python](https://www.youtube.com/watch?v=N_7A3KPZIQw)
 - [Hướng Dẫn Các Bước Tiền Xử Lý Dữ Liệu bằng Scikit-Learn](https://www.youtube.com/watch?v=VsXKtjddXWY)
