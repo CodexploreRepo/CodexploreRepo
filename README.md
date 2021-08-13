@@ -40,11 +40,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Lập Trình Game Flappy Bird với PyGame Cho Người Mới Bắt Đầu](https://www.youtube.com/watch?v=mFbdfXWmLU8)
 - [Tìm Hiểu về Trí Tuệ Nhân Tạo, Machine Learning & Deep Learning](https://www.youtube.com/watch?v=lbqqb0fhr2A)
 - [Hướng Dẫn Làm Data Visualisation Project với Matlplotlib và Python](https://www.youtube.com/watch?v=N_7A3KPZIQw)
 - [Hướng Dẫn Các Bước Tiền Xử Lý Dữ Liệu bằng Scikit-Learn](https://www.youtube.com/watch?v=VsXKtjddXWY)
 - [Hướng Dẫn Cấu Trúc If Else trong Python bằng Game Đấm Lá Kéo](https://www.youtube.com/watch?v=dswNQdvnjgI)
-- [Hướng Dẫn Trực Quan Hoá Dữ Liệu với Seaborn và Python](https://www.youtube.com/watch?v=4_YB4ZWLgPg)
 <!-- YOUTUBE:END -->
 
 ---
