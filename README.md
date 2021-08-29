@@ -40,7 +40,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Hướng Dẫn Train Mô Hình Machine Learning Cho Người Mới Bắt đầu](https://www.youtube.com/watch?v=wujyckteVYM)
+- [Hướng Dẫn Train Mô Hình Machine Learning Cho Người Mới Bắt Đầu](https://www.youtube.com/watch?v=wujyckteVYM)
 - [Giải LeetCode #75 - Sort Color | Thuật Toán Dutch National Flag Problem](https://www.youtube.com/watch?v=rB4r6OgQsZ0)
 - [Lập Trình Game Flappy Bird với Python Cho Người Mới Bắt Đầu](https://www.youtube.com/watch?v=mFbdfXWmLU8)
 - [Tìm Hiểu về Trí Tuệ Nhân Tạo, Machine Learning & Deep Learning](https://www.youtube.com/watch?v=lbqqb0fhr2A)
