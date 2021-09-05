@@ -40,11 +40,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Hướng Dẫn Lập Trình 6 Dự Án Python Cơ Bản Trong 1 Video Duy Nhất](https://www.youtube.com/watch?v=HWUsravMGLI)
 - [Hướng Dẫn Train Mô Hình Machine Learning Cho Người Mới Bắt Đầu](https://www.youtube.com/watch?v=wujyckteVYM)
 - [Giải LeetCode #75 - Sort Color | Thuật Toán Dutch National Flag Problem](https://www.youtube.com/watch?v=rB4r6OgQsZ0)
 - [Lập Trình Game Flappy Bird với Python Cho Người Mới Bắt Đầu](https://www.youtube.com/watch?v=mFbdfXWmLU8)
 - [Tìm Hiểu về Trí Tuệ Nhân Tạo, Machine Learning & Deep Learning](https://www.youtube.com/watch?v=lbqqb0fhr2A)
-- [Hướng Dẫn Làm Data Visualisation Project với Matlplotlib và Python](https://www.youtube.com/watch?v=N_7A3KPZIQw)
 <!-- YOUTUBE:END -->
 
 ---
