@@ -2,7 +2,6 @@
 
 
 - 🔭 I'm passionate about Machine Learning and Data Engineering
-- Awarded Vingroup Young Talent Scholarship for Master #AI @ SMU
 - 🥅 2021 Goals: Working on more DS Projects
 - ⚡ Fun fact: I work in Singapore but travel to Vietnam every two week before Covid 😅
 
