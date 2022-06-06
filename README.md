@@ -1,4 +1,4 @@
-### Hi, I'm Quan Nguyen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka [CodeXplore][website] = Software Engineer + Youtuber 🌱 
+### Hi, I'm Quan Nguyen - aka [CodeXplore][website] = Software Engineer + Youtuber 🌱 
 
 
 - 🔭 I'm passionate about Machine Learning and Data Engineering
