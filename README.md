@@ -1,4 +1,4 @@
-### Hi, I'm Quan Nguyen - aka [CodeXplore][website] = Software Engineer 🌱 
+### Hi, I'm CodeXplore - aka [CodeXplore][website] = Software Engineer 🌱 
 
 
 - 🔭 I'm passionate about Machine Learning and Data Engineering
