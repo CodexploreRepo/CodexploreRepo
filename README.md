@@ -5,7 +5,7 @@
 - 🥅 Favorite Quote: Never Too Late to Pursue Your Dreams
 - :zap: Fun fact: I work in Singapore but travel to Vietnam every two weeks before Covid 😅
 
-### ✨ GitHub Stats   
+## ✨ GitHub Stats   
 
 ![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2FCodexploreRepo&label=VISITORS&labelColor=%232ccce4&countColor=%23697689&style=flat)
 
@@ -19,8 +19,8 @@
 </tr>
 <table>
 
-### Tech Stack 
-#### Languages & Frameworks
+## Tech Stack 
+### Languages & Frameworks
 <p align="center">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
@@ -35,7 +35,7 @@
 </p>
 <br />
 
-#### Tools & Platforms
+### Tools & Platforms
 <p align="center">
 <img alt="Git" src="https://img.shields.io/badge/Git-f05134?style=for-the-badge&logo=git&logoColor=f05134&labelColor=282828">
 <img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white" />
@@ -57,7 +57,7 @@
 
 ---
 
-### 📫 Contact me via:
+## 📫 Contact me via:
 
 [![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quanngha/)
 
